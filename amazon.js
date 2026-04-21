@@ -27,7 +27,7 @@ let htmllines;
         <option value="-1">9</option>
         <option value="-1">10</option>
       </select>
-      <button class="product-button-class" data-product-id="${value.id}">"Add to cart</button>
+      <button class="product-button-class" data-product-id="${value.id}">Add to cart</button>
       
     </div>`
     productsContainerElement.innerHTML+=htmllines;
